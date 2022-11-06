@@ -1,0 +1,629 @@
+ /*p,b{
+	
+	
+color:red;
+
+
+*/
+
+
+/* div>p,h1{ */
+	/* color:bule; */
+/* } */
+
+/* div+p{ */
+	
+/* color:red; */
+/* } */
+/* a;link{ */
+	/* color:white; */
+/* #one:hover{ */
+	
+/* background-color:green; */
+/* } */
+/* [type="text"]{ */
+	/* background-color:yellow; */
+/* } */
+/* [type="submit"]{ */
+	/* background-color:green; */
+/* } */
+/* [class*="ing"]{ */
+	/* color:red; */
+/* } */
+  /*p,b{
+	
+	
+color:red;
+
+
+*/
+
+
+/* div>p,h1{ */
+	/* color:bule; */
+/* } */
+
+/* div+p{ */
+	
+/* color:red; */
+/* } */
+/* a;link{ */
+	/* color:white; */
+/* #one:hover{ */
+	
+/* background-color:green; */
+/* } */
+/* [type="text"]{ */
+	/* background-color:yellow; */
+/* } */
+/* [type="submit"]{ */
+	/* background-color:green; */
+/* } */
+/* [class*="ing"]{ */
+	/* color:red; */
+/* } */
+
+/* h1{ */
+/* color:red; */
+/* } */
+/* p{ */
+	/* background-color:pink; */
+	
+/* #one{ */
+	/* color:red; */
+/* } */
+/* #two{ */
+/* background-color:green; */
+
+/* } */
+
+/* .one{  */
+	/* color:red;  */
+	
+/* }  */
+/* .two{ */
+	/* color:green; */
+/* } */
+
+/* h1{ */
+	/* color:red; */
+	
+/* } */
+/* p{ */
+	/* color:green; */
+/* } **/
+
+
+/* h1{ */
+	/* color:#46EB09  */
+/* } */
+
+/* h1{ */
+	/* color:rgb(177,66,138); */
+/* } */
+/* p{ */
+	/* color:rgb(255,255,255) */
+
+/* } */
+
+/* p{ */
+	/* text-align:justify; */
+	/* text-decoration:overline,underline,overline,line-through */
+	/* text-decoration:underline; */
+/* } */
+
+/* a{  */
+	 /* text-decoration:none; */
+/* }  */
+
+ /*p{ 
+	/* text-transform:lowercase;/*uppercase,lowercase,capitalize,*/ 
+	/* text-indent:50px; */
+	/* line-height:50px; */
+	/* word-spacing:8px; */
+	/* letter-spacing:3px; */
+	 /* font-size:25px; */
+	 /* font-weight:bold; */
+	/* font-style:italic; */
+	/* font-family:  arial ;/*font-family: 'Comforter Brush', cursive;*/ 
+	/* width:600px; */
+	
+	/* height:500px; */
+	/* width:500px; */
+	/* border-style:solid;  */
+	/* border-color:blue;  */
+	/* border-width:4px;  */
+	 /* border-radius:20px; */
+	 /* border-bottom-style:solid; */
+	 /* border-bottom-color:green; */
+	 /* border-left-style:dotted; */
+	 /* border-left-color:red; */
+	 /* border-bottom-left-radius:20px; */
+	
+	
+	
+ /*
+ 
+ 
+ 
+ 
+ 
+/* the layout in which elements width and height are mentioned in 
+ pixcels is calld as static layout. 
+ 
+ if width is given in pixcels, then if we reduced the screen size, then
+ horizontal scrollbar appears, for user horizontal scrolling is tedious,
+ its a bad user experience.
+ 
+ the layout in which elements width and height are mentioned in 
+ percentage is calld as fluid layout.
+ 
+ disadvantage of fluid layout
+ 
+ if width is given with small percentage, while decreasing the sreen size, the
+ co
+
+
+
+
+
+ 
+ /* h1{ */
+	 /* font-weight:normal;	  */
+	 
+ /* } */
+
+ /* p{ */
+	 /* height:500px; */
+	/* width:500px; */
+	/* border-style:solid; */
+	/* padding:10px 20px 30px 40px; */
+	/* margin-left:25px; */
+	/* margin:50px 60px 70px; */
+	
+/* h1{ */
+/* color:how many official languages in india */
+
+/* } */
+
+/* p{ */
+/* color:#00FF00; */
+/* font-size:20px; */
+
+
+/* } */
+
+/* i{ */
+/* font-size:30px; */
+
+/* } */
+/* h2{ */
+/* color:#B22222; */
+/* } */
+
+/* b{ */
+/* color:; */
+/* font-size:40px; */
+
+
+/* } */
+/* ol{ */
+	/* color:#000080; */
+	
+	
+
+	
+
+/* p{ */
+	/* color:red; */
+	/* font-size:25px; */
+	
+	
+	 
+/* h1,h2{ */
+	/* text-align:center; */
+	/* font-family:  cursive; */
+	/* font-size:30px; */
+
+/* p,b{ */
+/* font-size:30px; */
+	/* color:#000080; */
+
+/* h1{ */
+/* color:#FFD700; */
+
+/* } */
+
+
+/* body{ */
+	/* background-color:#A9A9A9; */
+
+
+/* } */
+/* p{ */
+/* background-color:green; */
+/* text-align:justify; */
+/* word-spacing:8px; */
+/* } */
+
+/* a{ */
+/* background-color:red; */
+
+/* } */
+
+/* #these{ */
+/* background-color:white; */
+/* color:red; */
+/* font-weight:bold; */
+/* font-size:25px;  */
+
+
+
+/* } */
+/* #Kapaleeswarar{ */
+/* border-style: double; */
+/* background-color:white; */
+/* border-width:4px; */
+/* padding:10px 20px 30px 40px; */
+/* height:300px;  */
+/* width:500px;  */
+/* color:red */
+/* } */
+
+
+
+/* position property    
+	with the help of property, you can position elemeent on the browser
+	
+	syntax:
+	selector{
+		position:static | fixed | relative | absolute;
+		top: npx;
+		bottom:npx;
+		left:npx;
+		right:npx;		
+		
+	}
+	
+	fixed: reference is the browser boundary
+	relative: reference is relative to its own position.
+	absolute: reference is the first element
+*/
+ 
+/* #fourth{ */
+	/* position:absolute; */
+	/* top:10px; */
+   /* left:20px; */
+	/* color:#FFD700; */
+/* } */
+
+/* #whatsapp{ */
+	/* position:fixed; */
+	/* bottom:30px; */
+	/* right:30px; */
+	
+/* } */
+/* #tel{ */
+	/* position:fixed; */
+	/* bottom:80px; */
+	/* right:30px; */
+/* } */
+/* clear property--- to clear the floating effect on non-floating element*/
+
+/* #whatsapp{ */
+	/* float:left; */
+/* } */
+	
+/* .box1{ */
+	/* border-style:solid; */
+	/* width:30%; */
+	/* float:right; */
+/* } */
+/* .box2{ */
+/* border-style:solid; */
+/* width:30% */
+/* float:right; */
+/* } */
+
+/* .box3{  */
+/* border-style:solid; */
+/* clear:both; */
+/* } */
+
+/* .card{ */
+	/* width:22%; */
+	/* height:300px; */
+	/* border-style:soild; */
+	/* float:left; */
+	/* box-shadow:0px 0px 5px #F70577; */
+	/* margin-right:10px; */
+/* } */
+/* .card p{ */
+	/* text-align:center; */
+	/* padding-top:110px; */
+	/* color:red */
+/* } */
+
+
+/* .linear_gradient{ */
+	/* background-image:linear-gradient(to top , #F70577,yellow); */
+	/* background-image:linear-gradient(to top left,#05FA62, #F70577,yellow); */
+	/* height:300px; */
+	
+
+/* } */
+
+
+
+/* .trans{ */
+	/* width:300px; */
+	/* height:300px; */
+	/* border-style:soild; */
+	/* margin:200px auto; */
+	/* background-color:#F409D4; */
+	/* color:#FFD700; */
+	/* text-align:center; */
+	/* transition-property:transform; */
+	/* transition-duration:1s; */
+	/* transition-delay:1s; */
+/* } */
+/* .trans:hover{ */
+	 /* transform:translate(100px,-100px);  */
+	/* transform:scale(1.5);	  */
+	/* transform:scaleX(1.5); */
+	/* transform:scaleY(1.5) */
+	/* transform:rotate(-30deg);  */
+	/* transform:rotateX(100deg) */
+	/* transform:rotateY(60deg) */
+	/* transform:translateY(-200px); */
+	/* transform:trans
+	lateX(-200PX); */
+	
+/* h1{ */
+/* color:#F505DC; */
+/* font-size:17px; */
+/* } */
+/* p{ */
+	/* color:black; */
+	/* padding:30px 40px 30px 40px; */
+	/* border-style:solid; */
+	/* border-width:4px; */
+	/* height:300px; */
+	 /* width:300px; */
+	 /* text-align:center; */
+	 /* font-weight:bold; */
+	 /* word-spacing:8px; */
+	 /* background-color:#098E61; */
+/* } */
+/* .reserve{ */
+	/* font-size:40px;	 */
+	/* color:#F9041E; */
+
+/* } */
+/* .the{ */
+	 /* background-color:#F6F606; */
+	 /* padding:30px 40px 30px 40px; */
+	/* border-style:solid; */
+	/* border-width:4px; */
+	/* height:300px; */
+	 /* width:300px; */
+	 /* text-align:center; */
+	 /* font-weight:bold; */
+	 /* word-spacing:8px; */
+	 /* color:black; */
+/* } */
+/* .Academy{ */
+	/* color:#01FF3B; */
+	/* font-size:78px; */
+/* } */
+/* .Oscars{ */
+	/* color:black; */
+	/* padding:30px 40px 30px 40px; */
+	/* border-style:solid; */
+	/* border-width:4px; */
+	/* height:400px; */
+	 /* width:500px; */
+	 /* text-align:center; */
+	 /* font-weight:bold; */
+	 /* word-spacing:8px; */
+	 /* background-color:#06F9E3;	 */
+	
+/* } */
+/* .Who{ */
+	/* font-size:42px; */
+	
+	
+/* } */
+
+/* .Thiruvalluvar{ */
+	/* background-color:#F6F606; */
+	 /* padding:30px 40px 30px 40px; */
+	/* border-style:solid; */
+	/* border-width:4px; */
+	/* height:200px; */
+	 /* width:500px; */
+	 /* text-align:center; */
+	 /* font-weight:bold; */
+	 /* word-spacing:8px; */
+	 /* color:black; */
+/* } */
+
+     /* p{  */
+	/* color:black;  */
+	/* padding:30px 40px 30px 40px;  */
+	 /* border-style:solid;  */
+	/* border-width:4px;  */
+	/* height:300px;  */
+	  /* width:300px;  */
+	 /* text-align:center;  */
+	 /* font-weight:bold;  */
+	 /* word-spacing:8px;  */
+	  /* background-image:url(th.webp); */
+/* .box1{  */
+	/* border-style:groove;  */
+	 /* float:left;  */
+	 /* border-width:4px; */
+	 /* height:300; */
+	 /* width:250; */
+	  /* font-size: 14px; */
+	  /* padding:4px 4px 4px 4px; */
+	 /* margin:5px; */
+	 /* font-family:tomorrow; */
+	 
+	 
+	 
+ /* } */
+
+ /* .box2{ */
+		 /* border-style:groove;  */
+	 /* float:left;  */
+       /* height:300; */
+	 /* font-size: 14px; */
+	 /* width:250; */
+	   /* padding:4px 4px 4px 4px; */
+	 /* margin:5px; */
+	 /* font-family:tomorrow; */
+ /* } */
+ 
+/* .box3{ */
+		 /* border-style:groove; */
+	 /* float:left;  */
+	 /* height:300; */
+	 /* width:250;	 */
+	 /* font-size: 14px; */
+	  /* padding:4px 4px 4px 4px; */
+	 /* margin:5px; */
+	 /* font-family:tomorrow; */
+/* }	  */
+	 
+/* .box4{ */
+	 /* border-style:groove;   */
+	 /* float:left;  */
+	 /* height:300; */
+	 /* width:250;	  */
+	/* font-size: 14px; */
+	   /* padding:4px 4px 4px 4px; */
+	 /* margin:5px; */
+	
+/* } */
+.media{
+	/* width:25%; */
+	height:250px;
+	/* border-style:solid; */
+	float:left;
+	box-sizing:border-box;
+}
+
+[class*="col-"]{
+	width:100%;
+	
+	
+	/* when screen size is above 768px =>horizontal layout  */
+ /* when screen size is <=768px   => vertical layout  */
+	/* vertical layout				Horizontal layout */
+/* 0px									768px				1300px */
+
+/**|----------------------------------|--------------------|
+					100%
+|-----------------------------------------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+ 8.33%
+|---|   col-1
+  16.66%
+|-------|  col-2
+    25%
+|-----------| col-3
+     33.33%
+|---------------| col-4
+       41.66%
+|-------------------| col-5
+50%
+|-----------------------| col-6
+           58.33%
+|---------------------------|  col-7
+            66.66%
+|-------------------------------| col-8
+               75%
+|-----------------------------------| col-9
+                  83.33%
+|---------------------------------------| col-10
+91.66%
+|-------------------------------------------| col-11
+                        100%
+|-----------------------------------------------| col-12
+
+ 
+*/
+}
+
+/* @media only screen and (min-width:768px){ */
+	/* .col-1{ */
+      /* width:8.33%; */
+    /* } */
+	/* .col-2{ */
+		/* width:16.66%; */
+	/* } */
+	/* .col-3{ */
+		/* width: 25%; */
+	/* } */
+	/* .col-4{ */
+		/* width: 33.33%; */
+	/* } */
+	/* .col-5{ */
+		/* width:41.66%; */
+	/* } */
+	/* .col-6{ */
+		/* width:50%; */
+	/* } */
+	/* .col-7{ */
+		/* width:58.33%; */
+	/* } */
+	/* .col-8{ */
+		/* width:66.66% */
+	/* } */
+	/* .col-9{ */
+		/* width:75% */
+	/* } */
+	/* .col-10{ */
+		/* width:83.33%; */
+	/* } */
+	
+	
+	/* .col-11{ */
+		/* width:91.66%; */
+	/* } */
+	
+	
+	/* .col-12{ */
+		/* width:100%; */
+	
+	
+	/* } */
+	
+/* } */
+
+h1{
+	color:red;
+}
+
+.airplane{
+	width:500px;
+	position:absolute;
+	bottom:150px;
+	right:-200px;
+	animation:plan 4s linear infinite;
+	
+}
+@keyframes plan{
+	0%{
+		transform: translateX(-0px) translateY(0px) rotate(0deg);
+	
+	}
+	30%{
+		transform: translateX(-500px)translateY(0px)rotate(0deg);
+	}
+	100%{
+		transform: translateX(-1500px)translateY(-200px)rotate(20deg);
+	}
+	
+}
